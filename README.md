@@ -33,9 +33,5 @@ I'm a **Computer Science student majoring in Artificial Intelligence Engineering
 
 ---
 
-## 📫 Let's Connect!
-- 🔗 LinkedIn: [www.linkedin.com/in/wayan-raditya-putra-09b927317](#)
-- 💼 Portfolio: [coming soon]
-
 Check out my repositories and feel free to collaborate! 🚀
 
