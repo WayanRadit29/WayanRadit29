@@ -17,10 +17,10 @@ I'm a **Computer Science student majoring in Artificial Intelligence Engineering
 ---
 
 ## 💡 My Skills & Tech Stack
-- **Languages:** Python, MySQL, HTML, CSS
+- **Languages:** Python, MySQL
 - **AI & Data Science:** Machine Learning, Data Analysis
-- **Cloud & DevOps:** Google Cloud, Docker
-- **Development:** Web Development, Database Management
+- **Cloud & DevOps:** Google Cloud
+- **Development:** Database Management
 - **Soft Skills:** Leadership, Problem-Solving, Adaptability
 
 ---
