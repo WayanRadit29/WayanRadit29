@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Wayan Raditya Putra!
 
-🚀 **Aspiring AI Engineer | Problem Solver | Entrepreneurial Mindset**  
+## 🚀 AI Engineer | Problem Solver | Founder of Tutas  
+💡 I build systems that empower people — with AI, clarity, and discipline.
+
 
 I'm a **Computer Science student majoring in Artificial Intelligence Engineering at ITS Surabaya**, passionate about **AI, Machine Learning, and Business Technology**. I believe in leveraging AI to enhance human capabilities, and I'm constantly exploring innovative ways to merge technology with impactful real-world solutions.  
 
