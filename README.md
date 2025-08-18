@@ -19,19 +19,22 @@ I'm an AI Engineering student at ITS Surabaya, passionate about building intelli
 ---
 
 ## 💡 My Skills & Tech Stack
-- **Languages:** Python, MySQL
-- **AI & Data Science:** Machine Learning, Data Analysis
-- **Cloud & DevOps:** Google Cloud
-- **Development:** Database Management
-- **Soft Skills:** Leadership, Problem-Solving, Adaptability
+- 🧠 **Languages:** Python, SQL
+- 🤖 **AI & Data Science:** Machine Learning, Data Mining, Model Evaluation
+- ☁️ **Cloud & DevOps:** Google Cloud Platform (Vertex AI, BigQuery, Compute Engine)
+- 🛠️ **Development:** Streamlit, Git, Database Management
+- 🧩 **Soft Skills:** Leadership, Problem-Solving, System Thinking, Strategic Execution
+
 
 ---
 
 ## 📌 Current Goals
-- 🏆 Mastering AI & Data Science applications in the real world
-- 🚀 Building innovative projects in AI and business solutions
-- 🏅 Competing in tech & business-related competitions
-- 📚 Enhancing my skills in cloud computing & system design
+- 🎯 Scaling Tutas as a smart academic support system for students
+- 🧠 Deepening my expertise in AI, Machine Learning, and Data-Driven Systems
+- 🚀 Deploying real-world projects and exploring product-market fit
+- 📚 Winning tech & business competitions to sharpen execution skills
+- ☁️ Mastering cloud computing and production-ready AI pipelines
+
 
 ---
 
