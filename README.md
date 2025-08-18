@@ -5,9 +5,7 @@
 ## 🚀 AI Engineer | Problem Solver | Founder of Tutas  
 💡 I build systems that empower people — with AI, clarity, and discipline.
 
-
-I'm a **Computer Science student majoring in Artificial Intelligence Engineering at ITS Surabaya**, passionate about **AI, Machine Learning, and Business Technology**. I believe in leveraging AI to enhance human capabilities, and I'm constantly exploring innovative ways to merge technology with impactful real-world solutions.  
-
+I'm an **AI Engineering student at ITS Surabaya**, passionate about building intelligent systems that solve real-world problems. As the **Founder of Tutas**, I'm currently developing a system to help students access better academic support — starting with logic-heavy courses like Calculus and Programming. I believe that **AI, built with clarity and discipline**, can unlock scalable solutions in education and beyond.
 ---
 
 ## 🔥 What I Do
