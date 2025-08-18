@@ -12,10 +12,9 @@ I'm an AI Engineering student at ITS Surabaya, passionate about building intelli
 ---
 
 ## 🔥 What I Do
-- 🎓 **Currently Learning:** Data Structures, Graph Theory, Probability & Statistics, and Cloud Computing (Google Cloud Juara GCP).
-- 🤖 **AI & Machine Learning Enthusiast:** Passionate about building intelligent systems and solving real-world problems.
-- 📊 **Business & Startups:** Interested in tech entrepreneurship and product development.
-
+- 🎓 **Currently Learning:** OOP, Algorithm Design & Analysis, Information Security, Data Mining, Machine Learning, and Computational Intelligence
+- 🤖 **AI & Machine Learning Enthusiast:** Passionate about building intelligent systems and solving real-world problems
+- 📊 **Business & Startups:** Founder of Tutas — building systems that improve how students learn
 
 ---
 
