@@ -6,16 +6,15 @@
 💡 I build systems that empower people — with AI, clarity, and discipline.
 
 
-I'm an AI Engineering student at ITS Surabaya, passionate about building intelligent systems that solve real-world problems. As the founder of Tutas, I'm currently developing a system to help students access better academic support — starting with logic-heavy courses like Calculus and Programming. I believe that AI, built with clarity and discipline, can unlock scalable solutions in education and beyond.
+I'm an AI Engineering student at ITS Surabaya focused on building intelligent systems with real-world impact. As the founder of Tutas, I’m currently iterating toward product-market fit while deepening my expertise in Deep Learning, NLP, and applied AI engineering.
+
 
 
 ---
 
 ## 🔥 What I Do
-- 🎓 **Currently Learning:** OOP, Algorithm Design & Analysis, Information Security, Data Mining, Machine Learning, and Computational Intelligence
-- 🤖 **AI & Machine Learning Enthusiast:** Passionate about building intelligent systems and solving real-world problems
-- 📊 **Business & Startups:** Founder of Tutas — building systems that improve how students learn
-
+- 🎓 **Currently Learning:** Software Design & Development, Deep Learning, NLP, Digital Image Processing, HCI, Web Programming, and Computer Graphics
+- 🚀 **Building Tutas:** Iterating an academic support system to validate product-market fit through real user feedback
 ---
 
 ## 💡 My Skills & Tech Stack
@@ -27,15 +26,10 @@ I'm an AI Engineering student at ITS Surabaya, passionate about building intelli
 
 
 ---
-
-## 📌 Current Goals
-- 🎯 Scaling Tutas as a smart academic support system for students
-- 🧠 Deepening my expertise in AI, Machine Learning, and Data-Driven Systems
-- 🚀 Deploying real-world projects and exploring product-market fit
-- 📚 Winning tech & business competitions to sharpen execution skills
-- ☁️ Mastering cloud computing and production-ready AI pipelines
-
-
+## 📌 Current Focus
+- 🎯 Iterating Tutas to validate product-market fit and improve real student learning outcomes
+- 🤖 Deepening expertise in Deep Learning, NLP, and applied AI system design
+- 🧱 Building end-to-end projects that connect engineering fundamentals with product execution
 ---
 
 Check out my repositories and feel free to collaborate! 🚀
