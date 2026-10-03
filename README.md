@@ -11,7 +11,7 @@ AI Engineering student at Institut Teknologi Sepuluh Nopember (ITS), interested 
 
 ## Selected Work
 
-- Biomedical NER with distant supervision
+- Biomedical NER with distant supervision : contributed to PubMed data scraping and preprocessing for multi-entity NER experiments
 - Student–tutor matching benchmark using CSP, Genetic Algorithm, and Simulated Annealing
 - RAG-based startup knowledge assistant
 - Fuzzy emotional chatbot optimized with GA and PSO
